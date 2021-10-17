@@ -1,0 +1,11 @@
+{
+    "nome": "Eric",
+    "idade": 39,
+    "hobbies": ["música", "musculação", "programação"],
+    "esta_trabalhando": true,
+    "sabe_programar": {
+        "python": "sim",
+        "javaScript": "sim",
+        "html e css": "sim"
+    }
+}
